@@ -12,7 +12,7 @@ export class ThongTin {
   hienThiThongTin() {
     let content = `
           <tr>
-              <th>Họ & tên</th>
+              <th>Họ tên</th>
               <td>${this.ho} ${this.ten}</td>
           </tr>
           <tr>
